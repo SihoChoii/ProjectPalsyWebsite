@@ -1,9 +1,8 @@
 ---
 title: "Journal 2"
-enableToc: false
+tags:
+- Journal
 ---
-
-[[2023-06-14]] - [[2023-06-28]]
 
 ### Branding
 We started our brainstorming ideas for our [[Branding]].

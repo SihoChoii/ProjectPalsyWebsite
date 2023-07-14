@@ -1,10 +1,9 @@
 ---
 title: "Journal 1"
-enableToc: false
+tags:
+- Journal
 ---
 
-[[2023-05-22]] - [[2023-06-14]]
-#hardware #research
 ### **Mission**:  Implementing exergaming to assist children with cerebral palsy, further enhancing their motor skills through performance and usability.
 ---
 

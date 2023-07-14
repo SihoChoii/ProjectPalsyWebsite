@@ -1,5 +1,4 @@
 ---
 title: "Branding"
-enableToc: false
 ---
 

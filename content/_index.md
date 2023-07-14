@@ -1,6 +1,5 @@
 ---
-title: "✋ Project Palsy"
-enableToc: false
+title: "Project Palsy"
 ---
 
 # Project Palsy
