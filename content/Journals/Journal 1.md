@@ -9,10 +9,7 @@ tags:
 
 ## Research
 
-#### **Sources**
->**[Source 1](https://www.researchgate.net/publication/353316964_Personalisation_of_a_virtual_gaming_system_for_children_with_motor_impairments_performance_and_usability)**
->**[Source 2](https://www.youtube.com/watch?v=JzN22NUbEss)**
->**[Source 3](https://www.wowt.com/2021/08/13/unmc-studying-how-video-game-therapy-helps-young-people-with-cerebral-palsy/)**
+>**[Source 1](https://www.researchgate.net/publication/353316964_Personalisation_of_a_virtual_gaming_system_for_children_with_motor_impairments_performance_and_usability)** -    -    - **[Source 2](https://www.youtube.com/watch?v=JzN22NUbEss)** -    -   - **[Source 3](https://www.wowt.com/2021/08/13/unmc-studying-how-video-game-therapy-helps-young-people-with-cerebral-palsy/)**
 
 First decision matrix that assisted us with choosing a method of approach to tackle our mission statement.
 

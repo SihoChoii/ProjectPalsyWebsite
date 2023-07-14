@@ -9,29 +9,31 @@ We started our brainstorming ideas for our [[Branding]].
 
 As two high-schoolers looking to brand their passion project, we had multiple criteria for the aesthetic of our brand. We decided on Project Palsy since it was simple and reflected our goals at their core motives. Along with this, we chose a hand aesthetic for all of our logos.
 
-Some ideas:
-![logo1|340](images/J2/logo1.png)![logo2|340](images/J2/logo2.png)
-![logo4alt|340](images/J2/logo4alt.png)![logo3|340](images/J2/logo3.png)
+> Some ideas:
+
+> ![images/J2/logo1.png|340] ![images/J2/logo2.png|340]
+
+> ![images/J2/logo4alt.png|340] ![images/J2/logo3.png|340]
 
 ### Hardware
 
 The IMU we chose for this project was the MPU6050 since it struck a good balance between features, accuracy, and price. It has the ability to sense acceleration as well as rotation in six axis, affording us creative freedom in designing our therapy game. 
 
-![[mpu6050.png]]
+![[images/J2/mpu6050.png]]
 *3 Axis Accelerometer Gyroscope Module 6 DOF 6-axis Accelerometer*
 
 For our first prototype, we decided to the the Arduino Uno R3, which allowed us to easily prototype our first iteration of the circuit. However, it comes with the drawback of missing the ability to USB output which limits it's use to just serial outputs. 
 
-![[mcus.jpg]]
+![[images/J2/mcus.jpg]]
 *Arduino Uni, Metro Mini, Pi Pico, Pro Micro*
 
 
-![[imutest.gif]]
+![[images/J2/imutest.gif]]
 *IMU testing with serial monitor*
 
 ### Software
 In order to test the sensors functionality, we used the Adafruits MPU6050 library create a test program.
-> [IMU Test Code Github](https://github.com/SihoChoii/ProjectPalsy/blob/main/Software/v1/main/main.ino)
+> [**IMU Test Code Github**](https://github.com/SihoChoii/ProjectPalsy/blob/main/Software/v1/main/main.ino)
 ```cpp
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
@@ -61,17 +63,17 @@ While brainstorming ideas for the game, we had to keep in mind several criteria,
 
 Since rotation based movements mostly involve a shift in perception, we knew that it was necessary to make the game in 3D. 
 
-![[monkeyclip.gif]]
+![[images/J2/monkeyclip.gif]]
 *Super Monkey Ball Gameplay*
 
 Based on the constraints of the IMU and our desire to take a more rotation-based approach, the initial inspiration for our game was Super Monkey Ball.  While the game seems mechanically demanding, our approach would optimize gameplay to be slower and focus more on precise controls over Super Monkey Ball's rapid and speed based gameplay. This would allow for our game to both have an easier learning curve and build up on difficulty in levels, allowing for the steady growth in motor skills for our players. 
 
 In order to make a game that is both visually appealing and within our criteria, we decided to use the industry standard game engine Unreal. The endless powerful tools that Unreal Engine has gives us creative freedom with our game design. 
 
-![[unreal.gif]]
+![[images/J2/unreal.gif]]
 *Unreal Engine 5.2 Demo*
 
 The properties of physics that our game will be using are demonstrated here:
 
-![[Sequence 01.gif]]
+![[images/J2/Sequence 01.gif]]
 *Ball Physics Demo*

@@ -1,5 +1,6 @@
 ---
 title: "Journals"
+enableToc: false
 tags:
 - Journal
 ---
