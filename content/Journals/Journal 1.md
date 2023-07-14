@@ -29,7 +29,7 @@ Realizing that motion controlled games were the most effective solution in our a
 
 Furthermore, we began to design a version of our controller on Autodesk, with a strong emphasis on organic and round shape. We also decided on small features such as a wrist strap addition to improve the quality and safety of use. The shape was kept simple in order to make it easier to fit the larger prototype electronic components. Our first model:
 
-![cadding](images/J1/cadding.jpg)
+![[images/J1/cadding.jpg]]
 *Autodesk Fusion360: Modeling the Controller*
 
 After gaining a rough idea of the final controller, we decided to start designing the internal specs. We began soldering and working on the internal hardware of our device, specifically the integration of the inertia measurement unit.

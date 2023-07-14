@@ -11,9 +11,9 @@ As two high-schoolers looking to brand their passion project, we had multiple cr
 
 > Some ideas:
 
-> ![images/J2/logo1.png|340] ![images/J2/logo2.png|340]
+![[images/J2/logo1.png|340]] ![[images/J2/logo2.png|340]]
 
-> ![images/J2/logo4alt.png|340] ![images/J2/logo3.png|340]
+![[images/J2/logo4alt.png|340]] ![[images/J2/logo3.png|340]]
 
 ### Hardware
 
