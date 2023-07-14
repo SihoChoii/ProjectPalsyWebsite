@@ -2,7 +2,7 @@ baseURL = "https://projectpalsy.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
-ignoreFiles = [
+ignoreFiles = [z
     "/content/templates/*",
     "/content/private/*",
 ]
