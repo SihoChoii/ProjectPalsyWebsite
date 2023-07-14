@@ -1,3 +1,8 @@
+---
+title: "Journals"
+enableToc: false
+---
+
 # Journals
 ---
 -	[[journals/Journal 1]]

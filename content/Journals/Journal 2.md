@@ -1,3 +1,8 @@
+---
+title: "Journal 2"
+enableToc: false
+---
+
 [[2023-06-14]] - [[2023-06-28]]
 
 ### Branding
@@ -6,11 +11,8 @@ We started our brainstorming ideas for our [[Branding]].
 As two high-schoolers looking to brand their passion project, we had multiple criteria for the aesthetic of our brand. We decided on Project Palsy since it was simple and reflected our goals at their core motives. Along with this, we chose a hand aesthetic for all of our logos.
 
 Some ideas:
-
-![[logo3.png | 340]] ![[logo4alt.png | 340]]
-![[logo2.png | 340]] ![[logo1.png | 340]]
-
-
+![logo1|340](images/J2/logo1.png)![logo2|340](images/J2/logo2.png)
+![logo4alt|340](images/J2/logo4alt.png)![logo3|340](images/J2/logo3.png)
 
 ### Hardware
 

@@ -1,3 +1,8 @@
+---
+title: "Journal 1"
+enableToc: false
+---
+
 [[2023-05-22]] - [[2023-06-14]]
 #hardware #research
 ### **Mission**:  Implementing exergaming to assist children with cerebral palsy, further enhancing their motor skills through performance and usability.
@@ -24,19 +29,18 @@ Realizing that motion controlled games were the most effective solution in our a
 
  Motivated by our own passion for virtual games, We decided to use a shape that would be similar to the Quest 2's controllers, since it has an ergonomic design for prolonged use. 
 
-![[measuring.jpg]]
+![measuring](images/J1/measuring.jpg)
 
 Furthermore, we began to design a version of our controller on Autodesk, with a strong emphasis on organic and round shape. We also decided on small features such as a wrist strap addition to improve the quality and safety of use. The shape was kept simple in order to make it easier to fit the larger prototype electronic components. Our first model:
 
-![[Cadding.jpg]]
+![cadding](images/J1/cadding.jpg)
 *Autodesk Fusion360: Modeling the Controller*
 
 After gaining a rough idea of the final controller, we decided to start designing the internal specs. We began soldering and working on the internal hardware of our device, specifically the integration of the inertia measurement unit.
 
-![[soldering.gif]]
+![soldering](images/J1/soldering.gif)
 *Soldering the inertial measurement unit (IMU)*
 
 The inertia measurement unit (IMU) will be a key factor in assisting the hand-eye-coordination of our patients. This will give us the ability to sense motion, and would be a key component in the exergaming interaction.
 
-![[final imu.gif]]
-
+![[images/J1/final imu.gif]]
