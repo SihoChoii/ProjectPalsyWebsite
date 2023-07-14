@@ -7,7 +7,7 @@ As two high-schoolers looking to brand their passion project, we had multiple cr
 
 Some ideas:
 
-![[logo3.png | 340]]![[logo4alt.png | 340]]
+![[logo3.png | 340]] ![[logo4alt.png | 340]]
 ![[logo2.png | 340]] ![[logo1.png | 340]]
 
 

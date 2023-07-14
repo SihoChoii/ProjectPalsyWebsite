@@ -1,6 +1,4 @@
 # Journals
 ---
--	[[Journal 1]]
--	[[Journal 2]]
--	[[Journal 3]]
--	[[Journal 4]]
+-	[[journals/Journal 1]]
+-	[[journals/Journal 2]]
