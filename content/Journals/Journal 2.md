@@ -4,7 +4,6 @@
 We started our brainstorming ideas for our [[Branding]].
 
 As two high-schoolers looking to brand their passion project, we had multiple criteria for the aesthetic of our brand. We decided on Project Palsy since it was simple and reflected our goals at their core motives. Along with this, we chose a hand aesthetic for all of our logos.
-![[Test.canvas|Test]]
 
 Some ideas:
 

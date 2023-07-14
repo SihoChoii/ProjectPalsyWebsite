@@ -1,11 +1,11 @@
 ---
-title: ✋ Project Palsy
+title: "✋ Project Palsy"
 enableToc: false
 ---
 
-# Porject Palsy
+# Project Palsy
 
 Aidan and Siho battle against those with Palsy
 [[Journals]]    [[About]]   [[Projects]]
-![[parts.jpg]]
+![parts image](/content/Conent/J1/parts.jpg)
 *Day 1 Parts Organization*
