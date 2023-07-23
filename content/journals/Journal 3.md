@@ -4,5 +4,4 @@ tags:
 - Journal
 ---
 
-#gamedesign #graphicdesign #hardware #software 
 ### Documentation

@@ -6,7 +6,7 @@ tags:
 
 ### Our Methodology
 
-(Qurt)[https://github.com/jackyzha0/quartz]
+(Quartz)[https://github.com/jackyzha0/quartz]
 
 ### Branding
 We started our brainstorming ideas for our [[Branding]].
