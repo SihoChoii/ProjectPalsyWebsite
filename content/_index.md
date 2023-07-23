@@ -5,7 +5,7 @@ tags:
 - Journal
 ---
 
-> (**Back**)[https://projectpalsy.com]
+> [**Homepage**][https://projectpalsy.com]
 # Journals
 ---
 -	[[journals/Journal 1]]

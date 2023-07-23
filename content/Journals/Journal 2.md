@@ -2,9 +2,12 @@
 title: "Journal 2"
 tags:
 - Journal
+- GameDesign
+- GraphicDesign
+- Hardware
+- Software
 ---
 
-#gamedesign #graphicdesign #hardware #software 
 ### **Mission**:  Implementing exergaming to assist children with cerebral palsy, further enhancing their motor skills through performance and usability.
 ---
 While we knew we wanted to focus on the development of a game to assist our patients the theoretical applications of exergaming were broad, and multiple solutions could be effective. Firstly, A decision matrix assisted us with choosing a method of approach to tackle our mission statement.
