@@ -1,12 +1,13 @@
 ---
-title: "Project Palsy"
+title: "Journals"
 enableToc: false
+tags:
+- Journal
 ---
 
-Aidan and Siho battle against those with Palsy
-
->[[Journals]]&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;[[About]]&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp;[[Projects]]
+> (**Back**)[https://projectpalsy.com]
+# Journals
 ---
-
-![parts image](images/J1/parts.jpg)
-*Day 1 Parts Organization*
+-	[[journals/Journal 1]]
+-	[[journals/Journal 2]]
+-   [[journals/Journal 3]]

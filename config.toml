@@ -1,4 +1,4 @@
-baseURL = "https://www.projectpalsy.com/"
+baseURL = "https://journal.projectpalsy.com"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
