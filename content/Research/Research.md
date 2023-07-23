@@ -4,14 +4,13 @@ tags:
 - Research
 ---
 
-## The Overlooked Impact of Cerebral Palsy in Society: Exploring the Potential of Motion-Based Games as a Therapeutic Intervention.
+# The Overlooked Impact of Cerebral Palsy in Society: Exploring the Potential of Motion-Based Games as a Therapeutic Intervention.
 
-**Abstract: Cerebral Palsy (CP) is a group of disorders that affect an individuals’ motor skills, muscle coordination, and movement overall. Despite being a very prevalent disability, Cerebral Palsy is often overlooked, leading to less resources for those affected, especially for children. This project aims to explore the potential of motion based games as a form of therapy for children with CP, as well as develop a stimulating motion based game that targets muscles in the hands, specifically increasing the motor skills and hand-eye coordination for youth affected by CP. By examining existing scientific works, this research portion of the project will aim to identify benefits in exergaming, as well as discuss the importance of giving aid to those affected by CP. 
+**Abstract: Cerebral Palsy (CP) is a group of disorders that affect an individuals’ motor skills, muscle coordination, and movement overall. Despite being a very prevalent disability, Cerebral Palsy is often overlooked, leading to less resources for those affected, especially for children. This project aims to explore the potential of motion based games as a form of therapy for children with CP, as well as develop a stimulating motion based game that targets muscles in the hands, specifically increasing the motor skills and hand-eye coordination for youth affected by CP. By examining existing scientific works, this research portion of the project will aim to identify benefits in exergaming, as well as discuss the importance of giving aid to those affected by CP.**
 
-### 1. Introduction
-    
-#### 1. Background and Significance 
-    
+## Introduction
+
+### 1 Background and Significance 
 Cerebral Palsy (CP) is a disorder that is directly linked to motor control. For individuals, this can mean having little hand-eye-coordination or poor posture. CP has an incidence rate of 1 in 300, being the most common neuromotor disability, and affecting many hundreds of thousands nationally. 
 
 Cerebral Palsy has long affected humans dating far back to ancient civilizations. However, it has not been until recently in the 18th and 19th centuries that studies have been done on cerebral palsy, and the term Cerebral Palsy itself was not coined until the 20th century. The National Library of Health cites that “Osler, Sach, and Peterson, Sigmund Frued, Mac Keith and Polani” were key contributors in the studies of CP, eventually leading to the term being defined in 2006. Along with this, only in recent years have MRI been developed powerful enough to scan and diagnose CP by viewing parts of the brain. With Cerebral Palsy being diagnosed early through MRIs just recently, new physical therapies have also been developed through different neuroscience studies allowing for early therapy and rehabilitation for patients suffering from CP. 
@@ -21,7 +20,7 @@ Despite these recent advancements, for such a prevalent disability Cerebral Pals
 
 It is imperative that we as a community learn more about Cerebral Palsy in order to create a more supportive environment for such a common disability. One consequence of this lack of education in CP is that many might have misunderstandings or inappropriate reactions around those with CP. While our project is about the Dyskinetic portion of CP, overall we hope that the research and initiatives that we spread will further create a more supportive and inclusive environment. Through this passion project, we hope to increase the quality of life for all affected by overlooked disabilities. 
 
-#### 1.2 Objectives and Goals
+### 1.1 Objectives and Goals
 To raise awareness about the overlooked status of cerebral palsy in society, this project aims to bring attention to the challenges faced by individuals with Cerebral Palsy and provide a more modern solution to them. By highlighting the prevalence and impact of cerebral palsy, the project seeks to raise awareness, and bring upon ideals of community empowerment to those suffering from overlooked disabilities. 
 
 - To explore the potential of motion-based games as a modern therapeutic treatment for individuals with cerebral palsy: The research paper aims to investigate the role of motion-based games, such as those enabled by motion-capture technology and virtual reality, as an innovative approach to supporting individuals with cerebral palsy. By examining existing literature and studies, the paper will assess the benefits and limitations of incorporating motion-based games into rehabilitation and therapy programs.
@@ -32,9 +31,9 @@ To raise awareness about the overlooked status of cerebral palsy in society, thi
     
 Overall, the research paper seeks to contribute to the growing body of knowledge surrounding cerebral palsy and motion-based games. By evaluating the potential benefits of these games and addressing the underlooked status of cerebral palsy in society, the paper aims to promote a more comprehensive and compassionate approach to supporting individuals with CP and enhancing their quality of life.
 
-### 2. Cerebral Palsy: Current Treatments and Effects
-    
-#### 2.2 Diagnostic Challenges
+## 2 Cerebral Palsy: Current Treatments and Effects
+
+### 2.1 Diagnostic Challenges
 
 Diagnosing cerebral palsy is a complex process that requires specialized medical expertise and thorough assessments. The diagnosis is often based on clinical observations, developmental history, and neuroimaging studies. Recently, with the addition of MRI brain scans have been a largely helpful tool in identifying Cerebral Palsy. 
 
@@ -45,7 +44,7 @@ Early intervention is crucial for individuals with cerebral palsy, as it allows 
 
 With kids, usually the hands and arms are more affected by the legs. Common side effects include “Increased spasticity in flexor muscles, sensory abnormalities, seizures, and visual problems are common findings” (*A Review on Recent Advances of Cerebral Palsy* National Library of Health). Furthermore in the same article they categorize Cerebral Palsy in 5 different cases, “diplegic, hemiplegic, tetraplegic, ataxic, dyskinetic, and mixed [21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9356840/#B21). Hagberg however classified CP into spasticity, dyskinetic syndromes, and ataxia. The spastic syndrome occurs due to damage to the brain and tracks controlling movement. It can be divided into monoparesis, hemiparesis, triparesis, tetraparesis, and spastic diplegia. Dyskinetic symptoms are seen due to injury to the subcortical structure, and ataxic symptoms are seen due to cerebellar injuries dividing CP into spastic, affecting one or both sides of the body, dyskinetic involving involuntary movements with altered tone or choreoathetosis movements, and ataxic. Around 80% of CP cases are found to be spastic [22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9356840/#B22). Spastic CP in this context is characterized by increased muscle tone and increased reflexes. It has been subcategorized into unilateral or bilateral along with the area of involvement. SCPE refers to dyskinetic CP accounting for 10 to 20% of CP cases and presents as having involuntary, uncontrolled, repetitive, and sometimes stereotypical movements with a fluctuating muscle tone. A faulty posture with enhanced muscle tone is defined as dystonic; a quick, uncontrolled, and twisting movement with hypotonia is called choreoathetosis. On the other hand, ataxic CP consists of 5-10% of CP cases and presents with loss of coordination with hypotonia. In some children, damage may occur in different parts of the developing brain which causes them to develop symptoms of having a combination of two or more types of cerebral palsy. This type is called mixed CP which accounts for 15.4 percent of all cases. The most common presenting symptoms of mixed type are a combination of spastic and athetoid features,” 
 
-#### 2.3 Current Therapy for Cerebral Palsy
+### 2.2 Current Therapy for Cerebral Palsy
 
 Current treatments for CP are very traditional and cookie cutter. According to an article from the Springer Nature Group, current treatments include “rehabilitation, physical therapy, speech therapy, occupational therapy, medical, splinting, casting, braces or orthosis, and other treatments.” While surgery is also an option, oftentimes many patients see surgery as a last resort. 
 
@@ -76,9 +75,9 @@ This chart shows the commonality of each treatment. 
 
 While many of these treatments can be effective, they lack the modernness of today's society and lack the stimulating aspect that motion-based games have. There is a growing interest in exploring innovative solutions that also achieve a rehabilitation aspect, which is what our project aims to do.
 
-### 3. Motion-Based Games : A modern approach to rehabilitation
+## 3 Motion-Based Games : A modern approach to rehabilitation
     
-#### 3.1 The evolution of Motion Based Games.
+### 3.1 The evolution of Motion Based Games.
 
 As technology rapidly improves year by year, the growth in the motion game industry has revolutionized entertainment, and more recently therapy.Early motion-based gaming systems, such as the Nintendo Wii, introduced simple motion-sensing controllers that allowed players to engage in virtual games by moving parts of their bodies and holding a controller.. Subsequently, advancements in technology led to the development of more advanced platforms, such as the Microsoft Kinect and virtual reality systems.
 
@@ -86,7 +85,7 @@ The Microsoft Kinect, released in 2010, eliminated the need for handheld control
 
 Recently, these interactive games have been implemented into healthcare and rehabilitation. Being innately fun and stimulating, they are strong therapy games for the youth and elderly. In an article titled The Use of Motion-Based Technology for People Living With Dementia or Mild Cognitive Impairment: A Literature Review by the National Library of Medicine, experiments were done allowing for the elderly affected with Dementia and Parkinsons to utilize pre-developed systems such as the Nintendo Wii as therapy. Principally, the experiment found it difficult to introduce the games to the elderly and explain the device. In our project we hope to imitate this concept with our own self-designed system, and target physical and cognitive stimulation in Cerebral Palsy.
 
-#### 3.2 Benefits to Motion Based Games
+### 3.2 Benefits to Motion Based Games
 
 There are several benefits to motion-based games as therapy tools. Firstly, in regards to the target audience of children who are affected by Cerebral Palsy, they are often more engaging and stimulating, serving to build up problem solving skills while also being fun. Motion-based games often require individuals to make quick decisions, solve problems, and process visual and auditory information while engaged in gameplay. These cognitive challenges stimulate brain activity and promote neuroplasticity, potentially enhancing cognitive abilities over time. This coupled with the increased focus form the game being fun makes the game very effective. 
 
@@ -94,7 +93,7 @@ Furthermore these games often utilize different mechanics of your body, such as 
 
 Most importantly, as a form of treatment the progress of these motion-based games can be easily tracked, making it so that adjustments can be made and the treatment can be personalized. The data collection that comes from playing these games will be used in order to enhance the physical therapy potentially leading to more effective outcomes. 
 
-#### 3.3 Game Design Consideration
+### 3.3 Game Design Consideration
 
 The game design criteria is harsh when making a suitable game for those affected by Cerebral Palsy. Game design elements, such as clear instructions, intuitive controls, and adjustable difficulty levels, can enhance accessibility for individuals with cerebral palsy. Customizable settings that cater to specific needs, such as adjusting game speed or motion sensitivity, ensure that the games are engaging and challenging for all players. Additionally, because some cases of CP may be more severe than others, it is essential that there is a level or difficulty adjuster to accommodate all types of persons. 
 
@@ -102,19 +101,19 @@ The game must also be easily taught to therapists or caregivers utilizing it as 
 
 When creating the controller for our project, it is imperative that we consider crucial quality of life features such as an ergonomic design for prolonged use, simple and easy to click buttons, and an arm strap to enhance the quality of use and add a layer of safety.
 
-### 5. The Integration of Motion Based Games
+### 4 The Integration of Motion Based Games
 
-#### 5.1 Approaches to Outreach
+### 4.1 Approaches to Outreach
 
 Integrating motion-based games into clinical practice requires a slow approach that involves collaboration between the developers, therapists, and Cerebral Palsy organizations. Therapists can incorporate these games into individualized treatment plans, setting specific goals and tracking progress over time. The first step to outreach for our project would be contacting local Cerebral Palsy organizations in order to collect data and test our game. 
 
-#### 5.2 Challenges to Integration
+### 4.2 Challenges to Integration
 
 Due to the varying levels of CP, the motion-based game must be accommodating for all types of severity. Additionally, while it is easy for us to use our own game, we will eventually need to train therapists and the patients themselves, meaning the game must have an easy learning curve Since our game is independently developed, there is no initial cost and therefore will be easy to implement. We hope that our game can be the initial investment to begin a trend of motion based rehab for those with neuromotor disabilities. Our eventual open-source game development will make us a resource for all further therapeutic game developers.
 
 While there is not much research on the long term effects of motion-based therapy, we hope that we can pioneer the connection between healthcare institutions, and game developers increasing the integration of motion-based games into rehabilitation programs, ensuring their widespread availability and effectiveness in cerebral palsy management.
 
-### Conclusion
+## Conclusion
 
 In conclusion, motion-based games offer a promising shift in cerebral palsy management, presenting a modern take on therapy, while being stimulating and targeting motor, cognitive, and social aspects of rehabilitation. As we strive for a more inclusive and comprehensive approach to support individuals with cerebral palsy, we are proud to be the pioneers in a modern era of problem solving and innovation. 
 
@@ -122,11 +121,11 @@ We hope to work with local Cerebral Palsy organizations to all play vital roles 
 
 Let us work collectively to raise  awareness about cerebral palsy and the potential benefits of motion-based games in rehabilitation. By doing so, we can create a more compassionate, inclusive, and supportive environment that empowers individuals with cerebral palsy to lead fulfilling and rewarding lives.
   
-# **Our Mission**:  Implementing exergaming to assist children with cerebral palsy, further enhancing their motor skills through performance and usability.
+# Our Mission:  *Implementing exergaming to assist children with cerebral palsy, further enhancing their motor skills through performance and usability.*
   
 
 
-## Works Cited
+# Works Cited
 
 **National Library of Medicine**
 

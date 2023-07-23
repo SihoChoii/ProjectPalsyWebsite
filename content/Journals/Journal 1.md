@@ -6,7 +6,7 @@ tags:
 
 # Our Methodology
 
-### Website
+### Documentation
 In order to document our journey of creating Project Palsy, we decided to use markdown language because it allow for efficient formatting in a lightweight and universal package. Although markdown language was intentionally developed to be readable in plain text, it did not have the polish we were looking in order to share to the public. 
 
 ![[images/J1/Markdown Example.png]]
@@ -16,9 +16,10 @@ For this reason we decided to use markdown language along side a interpreting la
 
 > [**Obsidian**](https://obsidian.md/) -->  [**Hugo**](https://gohugo.io/) --> [**Quartz Github**](https://github.com/jackyzha0/quartz)
 
-
-![[Pasted image 20230722204548.png | 200]] ![[Pasted image 20230722204656.png | 250]]
+![[images/J1/obsidianclip.png| 180]] ![[images/J1/vscodeclip.png|200]] ![[images/J1/hugoclip.png|220]]
 *Obsidian View vs Raw Markdown Syntax vs Hugo Website*
+
+
 
 ### Branding
 We started our brainstorming ideas for our [[Branding]].
