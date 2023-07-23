@@ -11,7 +11,3 @@ tags:
 -	[[journals/Journal 1]]
 -	[[journals/Journal 2]]
 -   [[journals/Journal 3]]
-
-# Research
----
--	[[Research/Research]]
