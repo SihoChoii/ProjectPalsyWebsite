@@ -12,14 +12,24 @@ In order to document our journey of creating Project Palsy, we decided to use ma
 ![[images/J1/Markdown Example.png]]
 *Raw Markdown Language Example*
 
-For this reason we decided to use markdown language along side a interpreting layer that would convert the markdown syntax into a nicer format. For this we chose Obsidian, a markdown language editing app, and Quartz, a tool that uses the Hugo framework in order to convert markdown syntax into a fully functioning website.
+For this reason we decided to use markdown language along side a interpreting layer that would convert the markdown syntax into a nicer format. 
 
-> [**Obsidian**](https://obsidian.md/) -->  [**Hugo**](https://gohugo.io/) --> [**Quartz Github**](https://github.com/jackyzha0/quartz)
-
-![[images/J1/obsidianclip.png| 180]] ![[images/J1/vscodeclip.png|200]] ![[images/J1/hugoclip.png|220]]
+![[images/J1/obsidianclip.png| 160]] ![[images/J1/vscodeclip.png|160]] ![[images/J1/hugoclip.png|180]]
 *Obsidian View vs Raw Markdown Syntax vs Hugo Website*
 
+>The final workflow we decided on was:
+> [**Obsidian**](https://obsidian.md/) -->  [**Hugo**](https://gohugo.io/) --> [**Quartz**](https://github.com/jackyzha0/quartz) --> [**Github Pages**](https://pages.github.com/)
 
+We decided to use Obsidian to edit and stylize the markdown text due to its excellent flexibility. It offers the ability to download community themes and plugins which greatly increase its utility and creates a unique system for "connecting" different pages to each other. As you can see, the graph view feature provides an unique interactive and visual representation of the connections between the journals.
+
+![[images/J1/graphExample.png|300]]
+*Obsidian Graph View*
+
+In order to convert the markdown journals to website ready code we decided to use Quartz which packages the Hugo framework to work with Obsidians non standard markdown syntax. 
+Finally we chose Github Pages to deploy the website due to its ability to directly pull the website files from a repository which dramatically simplifies the process. 
+
+![[images/J1/Github Client View.png|220]]![[Pasted image 20230726185443.png|180]]
+*Github Deployment Process*
 
 ### Branding
 We started our brainstorming ideas for our [[Branding]].
